@@ -1,5 +1,6 @@
 # rn-assignment7-11333179
- # Shopping Cart Application
+
+  # Shopping Cart Application
  This is shopping cart application built with react that uses javaScript . It allows users to view available items,
  select items to cart , remove tems from cart and view details about the items.
 
@@ -38,3 +39,10 @@ Displays product image, title, description, and price.
 Adds products to the cart.
 App Component (App.js)
 Sets up navigation using DrawerNavigator and StackNavigator.
+
+
+# Images
+![alt text](assets/first.jpg)
+![alt text](assets/2nd.jpg)
+![alt text](assets/3rd.jpg)
+![alt text](assets/4th.jpg)
