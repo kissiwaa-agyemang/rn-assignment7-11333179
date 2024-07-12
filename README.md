@@ -9,7 +9,7 @@
  Product Details: View product details in a modal.
  Add to Cart: Add products to the cart.
  Cart Screen: View and manage cart items, see the total price.
- Drawer Navigation: Navigate between different sections of the app.
+ Drawer Navigation: Navigate between different sections of the app
 
 # How It Works
 
